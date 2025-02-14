@@ -7,10 +7,10 @@
 
 ## Modos de Jogo
 
-- **Modo Míssil** 🎯  
+- **Modo Míssil**   
   O jogador controla o momento do disparo do míssil, cujo objetivo é atingir o OVNI. O OVNI se movimenta automaticamente para cima e para baixo, tornando o acerto um desafio de precisão e timing.
 
-- **Modo OVNI** 🛸  
+- **Modo OVNI**   
   O jogador assume o controle da nave, deslocando-se no eixo Y para evitar o impacto do míssil. O disparo do míssil ocorre de forma automatizada, exigindo reflexos rápidos para a evasão.
 
 ## Objetivo
@@ -33,8 +33,3 @@ O jogo propõe um desafio de estratégia e precisão, exigindo do jogador reflex
 
 ![Protótipo do Jogo](trabalho-ux.gif)
 
-## Como Executar
-
-1. Clone este repositório:
-   ```sh
-   git clone https://github.com/seu-usuario/ufo-vs-missile.git
