@@ -1,10 +1,9 @@
 # Pong 51
 
-# UFO vs Missile
 
 ## Descrição
 
-**UFO vs Missile** é um protótipo de jogo interativo onde o jogador pode escolher entre dois papéis distintos: o de um míssil ou o de um OVNI. A dinâmica do jogo baseia-se na tomada de decisão do jogador e na movimentação automatizada do oponente controlado pela IA.
+**Pong 51** é um protótipo de jogo interativo onde o jogador pode escolher entre dois papéis distintos: o de um míssil ou o de um OVNI. A dinâmica do jogo baseia-se na tomada de decisão do jogador e na movimentação automatizada do oponente controlado pela IA.
 
 ## Modos de Jogo
 
