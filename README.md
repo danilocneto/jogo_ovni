@@ -3,7 +3,7 @@
 
 ## Descrição
 
-**Pong 51** é um protótipo de jogo interativo onde o jogador pode escolher entre dois papéis distintos: o de um míssil ou o de um OVNI. A dinâmica do jogo baseia-se na tomada de decisão do jogador e na movimentação automatizada do oponente controlado pela IA.
+**Pong 51** é um protótipo de jogo interativo onde o jogador pode escolher entre dois papéis distintos: o de um míssil ou o de um OVNI. A dinâmica do jogo baseia-se na tomada de decisão do jogador e na movimentação automática.
 
 ## Modos de Jogo
 
@@ -15,7 +15,7 @@
 
 ## Objetivo
 
-O jogo propõe um desafio de estratégia e precisão, exigindo do jogador reflexos rápidos e uma boa capacidade de antecipação para atingir ou evitar o impacto.
+O jogo propõe um desafio de estratégia e precisão, exigindo do jogador reflexos rápidos acertar o alvo ou evitar de ser acertado.
 
 
 ## Como Jogar
@@ -25,7 +25,7 @@ O jogo propõe um desafio de estratégia e precisão, exigindo do jogador reflex
 3. Se for o **OVNI**, utilize os controles de movimentação para desviar dos mísseis.
 4. O jogo continua até que um dos objetivos seja atingido.
 
-## Imagem do Protótipo
+## Protótipo
 
 ![Protótipo do Jogo](trabalho-ux.gif)
 
