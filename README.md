@@ -17,10 +17,6 @@
 
 O jogo propõe um desafio de estratégia e precisão, exigindo do jogador reflexos rápidos e uma boa capacidade de antecipação para atingir ou evitar o impacto.
 
-## Tecnologias Utilizadas
-
-- [Inserir tecnologias utilizadas, ex: Phaser, JavaScript, HTML5, CSS]
-- [Outras bibliotecas ou frameworks, caso aplicável]
 
 ## Como Jogar
 
