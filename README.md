@@ -1,6 +1,5 @@
 # Pong 51 🎯
-
-### By Danilo de Castro e Guilherme Holanda
+### by Danilo de Castro e Guilherme Holanda
 
 ## Descrição
 
