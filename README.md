@@ -11,13 +11,22 @@ Este projeto faz parte da proposta de reinvenção do clássico jogo *Pong*, tra
 
 ## 2. Pesquisa e Análise Inicial
 
-O jogo *Pong* original é um dos primeiros jogos eletrônicos da história, baseado em uma mecânica simples de rebater uma bola entre duas barras controláveis. Analisando *Pong* sob o Framework **MDA** (Mechanics, Dynamics, Aesthetics):
+Para entender os desafios e engajamento do jogo *UFO vs Missile*, utilizamos o **Framework MDA** (Mechanics, Dynamics, Aesthetics) para analisar os principais elementos que tornam a experiência envolvente:
 
-- **Mecânica (Mechanics):** O jogo se baseia no movimento horizontal de barras que tentam rebater uma bola para o lado do oponente.
-- **Dinâmica (Dynamics):** O desafio consiste em prever a trajetória da bola e reagir rapidamente para impedir que ela passe.
-- **Estética (Aesthetics):** O jogo promove competição e engajamento ao criar uma disputa simples, mas desafiadora.
+- **Mecânica (Mechanics):**  
+  O jogo consiste em uma disputa entre dois elementos: um **míssil**, que é disparado com tempo de resposta limitado, e um **OVNI**, que se movimenta automaticamente ou sob o controle do jogador, dependendo do modo escolhido. O objetivo do jogador que controla o míssil é acertar o OVNI, enquanto o jogador do OVNI deve desviar para evitar ser atingido.
 
-O que torna *Pong* envolvente é sua jogabilidade intuitiva, o ritmo acelerado e a necessidade de reflexos rápidos. Seus elementos principais de diversão e desafio são o tempo de reação, a estratégia para posicionamento das barras e o aumento da dificuldade conforme o jogo avança.
+- **Dinâmica (Dynamics):**  
+  A dinâmica do jogo se baseia na precisão do disparo e nos reflexos para esquiva. Se o jogador controlar o míssil, ele precisa calcular o melhor momento para atirar, considerando o movimento do OVNI. Se estiver no controle do OVNI, deve reagir rapidamente para escapar do míssil.
+
+- **Estética (Aesthetics):**  
+  O jogo proporciona uma experiência de **tensão e estratégia**, onde o jogador precisa agir rapidamente para vencer. A arte simples e colorida contribui para a ambientação dinâmica e futurista.
+
+### **Elementos de Diversão e Desafio**
+O jogo se torna envolvente porque:
+- Requer **precisão** para acertar o alvo ou desviar.
+- Exige **reflexos rápidos** e tomada de decisão sob pressão.
+- Cria um ciclo contínuo de **tentativa e erro**, incentivando o jogador a melhorar sua performance.
 
 ## 3. Proposta de Reinvenção
 
